@@ -1,1 +1,54 @@
+body {
+    background-color: rgb(174, 10, 10);
+}
+
+#personal {
+    background-color: rgb(231, 201, 4);
+    border: 20px;
+    border-color: black;
+    padding: 5px;
+    margin: 5px;
+}
+
+#estudios {
+    background-color: rgb(231, 201, 4);
+    border: 20px;
+    border-color: black;
+    padding: 5px;
+    margin: 5px;
+}
+
+#experiencia {
+    background-color: rgb(231, 201, 4);
+    border: 20px;
+    border-color: black;
+    padding: 5px;
+    margin: 5px;
+
+    
+}
+
+#idioma {
+    background-color: rgb(231, 201, 4);
+    border: 20px;
+    border-color: black;
+    padding: 5px;
+    margin: 5px;
+}
+
+#competencia {
+    background-color: rgb(231, 201, 4);
+    border: 2px;
+    border-color: black;
+    padding: 5px;
+    margin: 5px;
+}
+
+#tech {
+    background-color: rgb(231, 201, 4);
+    border: 2px;
+    border-color: black;
+    padding: 5px;
+    margin: 5px;
+}
 
